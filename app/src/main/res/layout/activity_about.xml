@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="75dp"
+        android:text="About Us"
+        android:textColor="#009688"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="40sp" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottom_navigation"
+        app:itemBackground="@color/colorPrimary"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+        app:menu="@menu/menu_navigation"
+        android:layout_alignParentBottom="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        android:elegantTextHeight="true"
+        android:text ="This application has been developed by a group of CS Professionals as a part of their SDL Mini Project..."
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="235dp"
+        android:elegantTextHeight="true"
+        android:text ="Shubham Rane"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="285dp"
+        android:elegantTextHeight="true"
+        android:text ="Rupesh Bodkhe"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="335dp"
+        android:elegantTextHeight="true"
+        android:text ="Rehan Shaikh"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="385dp"
+        android:elegantTextHeight="true"
+        android:text ="Nikhil Giramkar"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="450dp"
+        android:elegantTextHeight="true"
+        android:text ="Under the guidance of...."
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="500dp"
+        android:elegantTextHeight="true"
+        android:text ="Mrs. Shobha Raskar Ma'am"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="550dp"
+        android:elegantTextHeight="true"
+        android:text ="Mr. Govind Pole Sir"
+        android:textColor="#000000"
+        android:textColorHighlight="#E91E63"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
