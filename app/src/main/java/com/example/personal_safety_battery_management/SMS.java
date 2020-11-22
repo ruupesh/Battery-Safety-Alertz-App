@@ -11,6 +11,7 @@ public class SMS {
         for (String num : a) {
             String phone_Num = num;
             String send_msg = msg;
+            System.out.println("Phone number is "+phone_Num);
             try {
                 SmsManager sms = SmsManager.getDefault(); // using android SmsManager
                 sms.sendTextMessage(phone_Num, null, send_msg, null, null); // adding number and text

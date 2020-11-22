@@ -3,6 +3,7 @@ package com.example.personal_safety_battery_management;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -27,14 +28,24 @@ public class Dashboard extends AppCompatActivity {
         double currLong=MainActivity.currLong;
         double homeLat=HomeLocation.homeLat;
         double homeLong=HomeLocation.homeLong;
+        String diff = String.format("%.2f",distance(currLat,homeLat,currLong,homeLong));
+        tv.setText("Distance between home and your current location is "+diff+" km");
 
-        tv.setText("Distance between home and your current loc is "+String.format("%.2f",distance(currLat,homeLat,currLong,homeLong))+" km");
-        ArrayList<String> phone= new ArrayList<>();
-//        phone.add("9921771856");
-//        String msg="Sent from safety battery alertz app"
-//        alert.setOnClickListener((v)->{
-//            SMS.sendSMS();
-//        });
+        final String msg="Sent from SAFETY BATTERY ALERTZ. My battery is about to die. Current location is https://maps.google.com/?q="+currLat+","+currLong;
+        alert.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                final ArrayList<String> phone= new ArrayList<>();
+                if(Close_Friends.phone1!=null)
+                    phone.add(Close_Friends.phone1);
+                if(Close_Friends.phone2!=null)
+                    phone.add(Close_Friends.phone2);
+                if(Close_Friends.phone3!=null)
+                    phone.add(Close_Friends.phone3);
+                SMS.sendSMS(phone,msg);
+                showMessageOKCancel("Message sent successfully to your trusted contacts. Stay safe \uD83D\uDE00");
+            }
+        });
+
 
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
 
@@ -104,5 +115,13 @@ public class Dashboard extends AppCompatActivity {
 
         // calculate the result
         return(c * r);
+    }
+
+    private void showMessageOKCancel(String message) {
+        new android.app.AlertDialog.Builder(Dashboard.this)
+                .setMessage(message)
+                .setPositiveButton("OK",null)
+                .create()
+                .show();
     }
 }

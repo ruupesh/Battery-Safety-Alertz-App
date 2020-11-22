@@ -155,9 +155,14 @@ public class MainActivity extends AppCompatActivity {
 //
 //        getSharedPreferences("PREFERENCE", MODE_PRIVATE).edit()
 //                .putBoolean("isFirstRun", false).commit();
-
-        Intent myIntent = new Intent(getApplicationContext(), HomeLocation.class);
-        startActivityForResult(myIntent, 0);
+        if(HomeLocation.homeLong==0 && HomeLocation.homeLat==0) {
+            Intent myIntent = new Intent(getApplicationContext(), HomeLocation.class);
+            startActivityForResult(myIntent, 0);
+        }
+        else {
+            Intent myIntent = new Intent(getApplicationContext(), Dashboard.class);
+            startActivityForResult(myIntent, 0);
+        }
         tv = findViewById(R.id.loc);
         double currLat=MainActivity.currLat;
         double currLong=MainActivity.currLong;
