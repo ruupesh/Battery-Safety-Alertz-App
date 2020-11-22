@@ -6,15 +6,35 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class Dashboard extends AppCompatActivity {
+import java.util.ArrayList;
 
+public class Dashboard extends AppCompatActivity {
+    TextView tv;
+    Button alert;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
+        tv = findViewById(R.id.loc);
+        alert = findViewById(R.id.send_alert);
+        double currLat=MainActivity.currLat;
+        double currLong=MainActivity.currLong;
+        double homeLat=HomeLocation.homeLat;
+        double homeLong=HomeLocation.homeLong;
+
+        tv.setText("Distance between home and your current loc is "+String.format("%.2f",distance(currLat,homeLat,currLong,homeLong))+" km");
+        ArrayList<String> phone= new ArrayList<>();
+//        phone.add("9921771856");
+//        String msg="Sent from safety battery alertz app"
+//        alert.setOnClickListener((v)->{
+//            SMS.sendSMS();
+//        });
 
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
 
@@ -54,5 +74,35 @@ public class Dashboard extends AppCompatActivity {
                 return false;
             }
         });
+    }
+
+    public static double distance(double lat1,
+                                  double lat2, double lon1,
+                                  double lon2)
+    {
+
+        // The math module contains a function
+        // named toRadians which converts from
+        // degrees to radians.
+        lon1 = Math.toRadians(lon1);
+        lon2 = Math.toRadians(lon2);
+        lat1 = Math.toRadians(lat1);
+        lat2 = Math.toRadians(lat2);
+
+        // Haversine formula
+        double dlon = lon2 - lon1;
+        double dlat = lat2 - lat1;
+        double a = Math.pow(Math.sin(dlat / 2), 2)
+                + Math.cos(lat1) * Math.cos(lat2)
+                * Math.pow(Math.sin(dlon / 2),2);
+
+        double c = 2 * Math.asin(Math.sqrt(a));
+
+        // Radius of earth in kilometers. Use 3956
+        // for miles
+        double r = 6371;
+
+        // calculate the result
+        return(c * r);
     }
 }
