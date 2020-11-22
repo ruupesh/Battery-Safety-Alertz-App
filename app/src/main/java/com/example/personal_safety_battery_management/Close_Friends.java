@@ -20,6 +20,8 @@ public class Close_Friends extends AppCompatActivity {
     EditText add_no;
     Cursor cursor = null;
 
+    static String phone1,phone2,phone3;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -148,6 +150,7 @@ public class Close_Friends extends AppCompatActivity {
                     String phone = cursor.getString(0);
                     add_no = (EditText)findViewById(R.id.phone1);
                     add_no.setText(phone);
+                    this.phone1=phone;
                 }
             }
             catch (Exception e)
@@ -167,6 +170,7 @@ public class Close_Friends extends AppCompatActivity {
                     String phone = cursor.getString(0);
                     add_no = (EditText)findViewById(R.id.phone2);
                     add_no.setText(phone);
+                    this.phone2=phone;
                 }
             }
             catch (Exception e)
@@ -186,6 +190,7 @@ public class Close_Friends extends AppCompatActivity {
                     String phone = cursor.getString(0);
                     add_no = (EditText)findViewById(R.id.phone3);
                     add_no.setText(phone);
+                    this.phone3=phone;
                 }
             }
             catch (Exception e)
@@ -194,4 +199,8 @@ public class Close_Friends extends AppCompatActivity {
             }
         }
     }
+
 }
+
+}
+
