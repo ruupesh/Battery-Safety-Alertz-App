@@ -19,6 +19,7 @@ public class Close_Friends extends AppCompatActivity {
     Button add_c;
     EditText add_no;
     Cursor cursor = null;
+
     static String phone1,phone2,phone3;
 
     @Override
@@ -198,4 +199,8 @@ public class Close_Friends extends AppCompatActivity {
             }
         }
     }
+
 }
+
+}
+
