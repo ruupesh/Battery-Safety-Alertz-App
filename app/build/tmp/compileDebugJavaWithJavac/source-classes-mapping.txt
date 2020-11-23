@@ -1,0 +1,23 @@
+com/example/personal_safety_battery_management/BuildConfig.java
+ com.example.personal_safety_battery_management.BuildConfig
+com/example/personal_safety_battery_management/Dashboard.java
+ com.example.personal_safety_battery_management.Dashboard
+ com.example.personal_safety_battery_management.Dashboard$1
+com/example/personal_safety_battery_management/About.java
+ com.example.personal_safety_battery_management.About
+ com.example.personal_safety_battery_management.About$1
+com/example/personal_safety_battery_management/Settings.java
+ com.example.personal_safety_battery_management.Settings
+ com.example.personal_safety_battery_management.Settings$1
+com/example/personal_safety_battery_management/Description.java
+ com.example.personal_safety_battery_management.Description
+ com.example.personal_safety_battery_management.Description$1
+com/example/personal_safety_battery_management/MainActivity.java
+ com.example.personal_safety_battery_management.MainActivity
+ com.example.personal_safety_battery_management.MainActivity$1
+com/example/personal_safety_battery_management/Close_Friends.java
+ com.example.personal_safety_battery_management.Close_Friends
+ com.example.personal_safety_battery_management.Close_Friends$1
+ com.example.personal_safety_battery_management.Close_Friends$2
+ com.example.personal_safety_battery_management.Close_Friends$3
+ com.example.personal_safety_battery_management.Close_Friends$4

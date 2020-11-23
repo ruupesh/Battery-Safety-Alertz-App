@@ -1,0 +1,4 @@
+#Sun Nov 22 16:21:18 IST 2020
+base.0=C\:\\Users\\Shubham\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
