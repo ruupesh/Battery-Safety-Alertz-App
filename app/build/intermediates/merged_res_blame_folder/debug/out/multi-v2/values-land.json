@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shubham\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-2\\files-2.1\\3f3267c357015e2a14bfc685928e8b2f\\appcompat-1.0.2\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Sharad\\.gradle\\caches\\transforms-2\\files-2.1\\3f3267c357015e2a14bfc685928e8b2f\\appcompat-1.0.2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shubham\\.gradle\\caches\\transforms-2\\files-2.1\\750e11957bf7041179375a87d64fa3cb\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Sharad\\.gradle\\caches\\transforms-2\\files-2.1\\8d44f2feedfc243e585d332c1593f8cc\\jetified-play-services-cast-framework-12.0.1\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "183,264,344,414,483,578",
+                        "endColumns": "80,79,69,68,94,90",
+                        "endOffsets": "263,343,413,482,577,668"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "264,349,433,507,580,679",
+                        "endColumns": "84,83,73,72,98,94",
+                        "endOffsets": "344,428,502,575,674,769"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sharad\\.gradle\\caches\\transforms-2\\files-2.1\\00aef5e07f594e51606d0dff2a4e81e7\\mediarouter-1.0.0-alpha5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "774,849,927",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "844,922,997"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sharad\\.gradle\\caches\\transforms-2\\files-2.1\\750e11957bf7041179375a87d64fa3cb\\material-1.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -24,12 +58,12 @@
                         "endOffsets": "222"
                     },
                     "to": {
-                        "startLines": "5",
+                        "startLines": "14",
                         "startColumns": "4",
-                        "startOffsets": "264",
-                        "endLines": "8",
+                        "startOffsets": "1002",
+                        "endLines": "17",
                         "endColumns": "10",
-                        "endOffsets": "431"
+                        "endOffsets": "1169"
                     }
                 }
             ]
