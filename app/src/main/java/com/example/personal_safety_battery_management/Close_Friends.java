@@ -202,5 +202,5 @@ public class Close_Friends extends AppCompatActivity {
 
 }
 
-}
+
 
