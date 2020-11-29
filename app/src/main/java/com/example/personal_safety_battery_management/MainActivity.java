@@ -19,7 +19,6 @@ import android.provider.Settings;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -49,17 +48,12 @@ public class MainActivity extends AppCompatActivity {
     public static double currLat=0;
 
     private final static int ALL_PERMISSIONS_RESULT = 101;
-    LocationTrack locationTrack;
+    LocationTrack locationTrack,lt;
     TextView tv;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
-
-
-//----------------------------------------------------------------------------------------
 
 
         permissions.add(ACCESS_FINE_LOCATION);
@@ -81,24 +75,24 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-                locationTrack = new LocationTrack(MainActivity.this);
-
-
-                if (locationTrack.canGetLocation()) {
+        lt=new LocationTrack(MainActivity.this);
+        locationTrack = new LocationTrack(MainActivity.this);
 
 
-                    double longitude = locationTrack.getLongitude();
-                    double latitude = locationTrack.getLatitude();
-                    this.currLat=latitude;
-                    this.currLong=longitude;
-                    System.out.println("lat:"+longitude+" - "+latitude);
+        if (locationTrack.canGetLocation()) {
 
-                    Toast.makeText(getApplicationContext(), "Longitude:" + Double.toString(longitude) + "\nLatitude:" + Double.toString(latitude), Toast.LENGTH_SHORT).show();
-                } else {
 
-                    locationTrack.showSettingsAlert();
-                }
+            double longitude = locationTrack.getLongitude();
+            double latitude = locationTrack.getLatitude();
+            this.currLat=latitude;
+            this.currLong=longitude;
+            System.out.println("lat:"+longitude+" - "+latitude);
+
+            Toast.makeText(getApplicationContext(), "Longitude:" + Double.toString(longitude) + "\nLatitude:" + Double.toString(latitude), Toast.LENGTH_SHORT).show();
+        } else {
+
+            locationTrack.showSettingsAlert();
+        }
 
 
 
@@ -257,5 +251,4 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         locationTrack.stopListener();
     }
-
 }
