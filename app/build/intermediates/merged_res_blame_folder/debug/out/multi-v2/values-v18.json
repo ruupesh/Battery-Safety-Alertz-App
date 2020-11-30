@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
+            "outputFile": "C:\\Users\\smile\\Downloads\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\smile\\.gradle\\caches\\transforms-2\\files-2.1\\3f3267c357015e2a14bfc685928e8b2f\\appcompat-1.0.2\\res\\values-v18\\values-v18.xml",
+=======
             "outputFile": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ranes\\.gradle\\caches\\transforms-2\\files-2.1\\3f3267c357015e2a14bfc685928e8b2f\\appcompat-1.0.2\\res\\values-v18\\values-v18.xml",
+>>>>>>> 4dc8f3e7214d6fd78acd2d1a74cc529774d1cd71
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
