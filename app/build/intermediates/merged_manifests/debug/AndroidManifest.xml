@@ -51,6 +51,9 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyC9aWeewLGw-cCfL18medshrGiKQOMNtys" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
 
         <activity android:name="com.example.personal_safety_battery_management.Close_Friends" />
         <!--

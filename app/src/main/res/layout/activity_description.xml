@@ -5,24 +5,36 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Description">
-    <ScrollView
+    tools:context=".Description"
+    android:background="@drawable/gradient_background">
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp"
+        android:layout_width="350dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="600dp"
+        android:layout_centerHorizontal="true">
+
+<ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:padding="10dp">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:padding="10dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="20dp"
                 android:elegantTextHeight="true"
                 android:text ="ABOUT THIS APP:"
+                android:fontFamily="@font/capriola"
                 android:textStyle="bold"
                 android:textColor="#000000"
                 android:textColorHighlight="#E91E63"
@@ -30,7 +42,7 @@
                 android:textSize="26dp" />
             <TextView
                 android:layout_width="wrap_content"
-                android:padding="10dp"
+                android:paddingHorizontal="10dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="0dp"
@@ -45,12 +57,13 @@
                 android:textSize="24dp" />
             <TextView
                 android:layout_width="wrap_content"
-                android:padding="5dp"
+                android:padding="10dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
-                android:layout_marginTop="0dp"
+                android:layout_marginTop="10dp"
                 android:elegantTextHeight="true"
                 android:text ="HOW TO USE:"
+                android:fontFamily="@font/capriola"
                 android:textStyle="bold"
                 android:textColor="#000000"
                 android:textColorHighlight="#E91E63"
@@ -152,15 +165,18 @@
 
         </LinearLayout>
     </ScrollView>
+    </androidx.cardview.widget.CardView>
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/bottom_navigation"
-        app:itemBackground="@color/colorPrimary"
+        android:background="@drawable/bottom_navigation_gradient"
         app:itemTextColor="@drawable/selector"
         app:itemIconTint="@drawable/selector"
         app:menu="@menu/menu_navigation"
+        android:layout_marginBottom="0dp"
         android:layout_alignParentBottom="true"/>
+
 
 
 </RelativeLayout>

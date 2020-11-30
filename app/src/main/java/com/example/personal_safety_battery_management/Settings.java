@@ -2,6 +2,7 @@ package com.example.personal_safety_battery_management;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.BroadcastReceiver;
@@ -86,6 +87,12 @@ public class Settings extends AppCompatActivity {
           super.onCreate(savedInstanceState);
           //ringtone = RingtoneManager.getRingtone(getApplicationContext(), RingtoneManager.getDefaultUri(RingtoneManager.TYPE_RINGTONE));
           setContentView(R.layout.activity_settings);
+
+
+
+          ActionBar actionBar = getSupportActionBar();
+          actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.appbar_background));
+
           textView = (TextView) findViewById(R.id.textView);
           progressBar = (ProgressBar) findViewById(R.id.progressBar);
           seekBar = (SeekBar) findViewById(R.id.seekBar);
@@ -159,7 +166,7 @@ public class Settings extends AppCompatActivity {
                   switch (menuItem.getItemId()) {
                       case R.id.dashboard:
                           startActivity(new Intent(getApplicationContext(),
-                                  MainActivity.class));
+                                  Dashboard.class));
                           overridePendingTransition(0, 0);
                           return true;
 
