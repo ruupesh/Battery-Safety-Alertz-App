@@ -1,10 +1,20 @@
-#Mon Nov 23 17:44:43 IST 2020
+<<<<<<< HEAD
+#Mon Nov 30 17:38:32 IST 2020
+=======
+#Mon Nov 30 11:44:20 IST 2020
+>>>>>>> 4dc8f3e7214d6fd78acd2d1a74cc529774d1cd71
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=C\:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.1=C\:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
-base.0=C\:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+<<<<<<< HEAD
+base.2=C\:\\Users\\smile\\Downloads\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=C\:\\Users\\smile\\Downloads\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\smile\\Downloads\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+=======
+base.2=E\:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=E\:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=E\:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+>>>>>>> 4dc8f3e7214d6fd78acd2d1a74cc529774d1cd71

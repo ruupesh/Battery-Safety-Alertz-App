@@ -24,8 +24,9 @@ import java.util.ArrayList;
 public class Dashboard extends AppCompatActivity {
     TextView tv;
     Button alert;
-    int battery_level=0;
+    static int battery_level=0;
     private TextView battery;
+    double currLat,currLong;
 
 
     @Override
@@ -92,25 +93,16 @@ public class Dashboard extends AppCompatActivity {
 
         tv = findViewById(R.id.loc);
         alert = findViewById(R.id.send_alert);
-        double currLat=MainActivity.currLat;
-        double currLong=MainActivity.currLong;
+        currLat=MainActivity.currLat;
+        currLong=MainActivity.currLong;
         double homeLat=HomeLocation.homeLat;
         double homeLong=HomeLocation.homeLong;
         String diff = String.format("%.2f",distance(currLat,homeLat,currLong,homeLong));
         tv.setText("Distance between home and your current location is "+diff+" km");
 
 
-        String msg_temp="";
-        String typed_msg = message.getText().toString();
-        if(this.battery_level<=10)
-        {
-            msg_temp="Sent from SAFETY BATTERY ALERTZ." + typed_msg+" My battery is about to die (Automatic alert). Battery: "+battery_level+"%.  Current location is https://maps.google.com/?q="+currLat+","+currLong;
-        }
-        else
-        {
-            msg_temp="Sent from SAFETY BATTERY ALERTZ." + typed_msg+" (Manual Alert). Battery: "+battery_level+"%.  Current location is https://maps.google.com/?q="+currLat+","+currLong;
-        }
-        final String msg = msg_temp;
+
+
         alert.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 final ArrayList<String> phone= new ArrayList<>();
@@ -120,7 +112,18 @@ public class Dashboard extends AppCompatActivity {
                     phone.add(Close_Friends.phone2);
                 if(Close_Friends.phone3!=null)
                     phone.add(Close_Friends.phone3);
-                SMS.sendSMS(phone,msg);
+                String msg_temp="";
+                String typed_msg = message.getText().toString();
+                System.out.println("Typed msg: "+typed_msg);
+                if(battery_level<=10)
+                {
+                    msg_temp="Sent from SAFETY BATTERY ALERTZ." + typed_msg+" My battery is about to die (Automatic alert). Battery: "+battery_level+"%.  Current location is https://maps.google.com/?q="+currLat+","+currLong;
+                }
+                else
+                {
+                    msg_temp="Sent from SAFETY BATTERY ALERTZ." + typed_msg+" (Manual Alert). Battery: "+battery_level+"%.  Current location is https://maps.google.com/?q="+currLat+","+currLong;
+                }
+                SMS.sendSMS(phone,msg_temp);
                 showMessageOKCancel("Message sent successfully to your trusted contacts. Stay safe \uD83D\uDE00");
             }
         });
