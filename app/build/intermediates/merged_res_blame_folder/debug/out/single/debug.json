@@ -1,290 +1,290 @@
 [
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_settings.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_close__friends.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_close__friends.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_location.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_home_location.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_help.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_emergency_dial.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_emergency_dial.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_people.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_people.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_settings.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_description.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_description.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_description.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_description.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_people.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_people.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\drawable\\selector.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_close__friends.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_close__friends.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_about.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_emergency_dial.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_emergency_dial.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_location.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\layout\\activity_home_location.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_people.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_help.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_help.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\menu\\menu_navigation.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\drawable\\selector.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_people.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_people.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_help.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_help.png"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_help.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help.xml"
     },
     {
-        "merged": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
-        "source": "C:\\Flutter_Projects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+        "merged": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidStudioProjects\\Battery-Safety-Alertz-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
     }
 ]
