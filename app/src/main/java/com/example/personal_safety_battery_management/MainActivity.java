@@ -38,6 +38,9 @@ import java.util.ArrayList;
 
 import static android.Manifest.permission.ACCESS_COARSE_LOCATION;
 import static android.Manifest.permission.ACCESS_FINE_LOCATION;
+import static android.Manifest.permission.SEND_SMS;
+import static android.Manifest.permission.READ_CONTACTS;
+import static android.Manifest.permission.CALL_PHONE;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -58,6 +61,9 @@ public class MainActivity extends AppCompatActivity {
 
         permissions.add(ACCESS_FINE_LOCATION);
         permissions.add(ACCESS_COARSE_LOCATION);
+        permissions.add(SEND_SMS);
+        permissions.add(READ_CONTACTS);
+        permissions.add(CALL_PHONE);
 
         permissionsToRequest = findUnAskedPermissions(permissions);
         //get the permissions we have asked for before but are not granted..
@@ -213,8 +219,6 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (permissionsRejected.size() > 0) {
-
-
                     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
                         if (shouldShowRequestPermissionRationale((String) permissionsRejected.get(0))) {
                             showMessageOKCancel("These permissions are mandatory for the application. Please allow access.",
@@ -231,10 +235,8 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                 }
-
                 break;
         }
-
     }
 
     private void showMessageOKCancel(String message, DialogInterface.OnClickListener okListener) {
