@@ -45,6 +45,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.personal_safety_battery_management.History" />
         <activity android:name="com.example.personal_safety_battery_management.Emergency_dial" />
         <activity android:name="com.example.personal_safety_battery_management.HomeLocation" />
 

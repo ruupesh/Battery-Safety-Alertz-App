@@ -1641,6 +1641,7 @@ id blurred_background_image_view
 id book_now
 id bottom
 id bottom_navigation
+id bt_history
 id bt_picker
 id button
 id buttonPanel
@@ -1742,6 +1743,7 @@ id grayscale
 id group_divider
 id groups
 id help
+id histHead
 id holo_dark
 id holo_light
 id home
@@ -1782,6 +1784,7 @@ id loc
 id loc2
 id loc3
 id logo_only
+id lv_custList
 id masked
 id match_global_nicknames
 id match_parent
@@ -2043,6 +2046,7 @@ layout activity_close__friends
 layout activity_dashboard
 layout activity_description
 layout activity_emergency_dial
+layout activity_history
 layout activity_home_location
 layout activity_main
 layout activity_settings
